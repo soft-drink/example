@@ -3,7 +3,6 @@
 
 from flask import Flask, request, Response
 import matplotlib.pyplot as plt
-import PIL
 
 import io
 from math import sin, cos
